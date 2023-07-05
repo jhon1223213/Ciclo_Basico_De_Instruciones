@@ -30,8 +30,8 @@ registro ICR, SHW MAR muestra el valor en el registro MAR, SHW MDR muestra el va
 END - INSTRUCCIÓN DE FIN DE LECTURA
 
 **Contactos**
-      **@authors**                                      **@emails**
-Sarah Alexandra Cardinaux            -  sarah.cardinaux@correounivalle.edu.co
-Santiago Abihatar Jimenez            -  santiago.abihatar.jimenez@correounivalle.edu.co
-Diana Marcela Sarmiento              -  diana.sarmiento@correounivalle.edu.co 
-Jhon Frank Vasquez                   -  jhon.frank.vasquez@correounivalle.edu.co 
+         **@authors**                                      **@emails**
+      Sarah Alexandra Cardinaux            -  sarah.cardinaux@correounivalle.edu.co
+      Santiago Abihatar Jimenez            -  santiago.abihatar.jimenez@correounivalle.edu.co
+      Diana Marcela Sarmiento              -  diana.sarmiento@correounivalle.edu.co 
+      Jhon Frank Vasquez                   -  jhon.frank.vasquez@correounivalle.edu.co 
